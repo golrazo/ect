@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'ygotjalnanfont';
+    src: url('ygotjalnanfont.eot');
+    src: url('ygotjalnanfont.eot?#iefix') format('embedded-opentype'),
+        url('ygotjalnanfont.woff2') format('woff2'),
+        url('ygotjalnanfont.woff') format('woff'),
+        url('ygotjalnanfont.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
