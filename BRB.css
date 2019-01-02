@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'BRF';
+    src: url('BRR.eot');
+    src: url('BRR.eot?#iefix') format('embedded-opentype'),
+        url('BRR.woff2') format('woff2'),
+        url('BRR.woff') format('woff'),
+        url('BRR.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BRF';
+    src: url('BRB.eot');
+    src: url('BRB.eot?#iefix') format('embedded-opentype'),
+        url('BRB.woff2') format('woff2'),
+        url('BRB.woff') format('woff'),
+        url('BRB.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
