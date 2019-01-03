@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'TmonMonsori';
+    src: url('TmonMonsoriBlack.eot');
+    src: url('TmonMonsoriBlack.eot?#iefix') format('embedded-opentype'),
+        url('TmonMonsoriBlack.woff2') format('woff2'),
+        url('TmonMonsoriBlack.woff') format('woff'),
+        url('TmonMonsoriBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
